@@ -74,7 +74,8 @@ The dataset used for this analysis is publicly available:
 ## Main Dashboard
 Here is a preview of the Power BI dashboard:  
 
-![Sales Dashboard Preview](images/Overview online retaile sales analysis.jpg)  
+![Sales Dashboard Preview](03-Visualizations/Overview%20online%20retaile%20sales%20analysis.jpg)
+
 
 
 
